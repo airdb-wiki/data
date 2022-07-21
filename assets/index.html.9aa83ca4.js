@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-40036ff3","path":"/assets/","title":"Digital assets","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1658421351000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"assets/README.md"}');export{e as data};

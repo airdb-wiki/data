@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as s,a as e,b as i}from"./app.b3e9612b.js";const r={},c=e("h1",{id:"digital-assets",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#digital-assets","aria-hidden":"true"},"#"),i(" Digital assets")],-1),d=[c];function n(o,_){return t(),s("div",null,d)}var h=a(r,[["render",n],["__file","index.html.vue"]]);export{h as default};
